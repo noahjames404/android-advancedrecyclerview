@@ -1,4 +1,4 @@
-When creating headers & footers, the [`AbstractHeaderFooterWrapperAdapter`]({{ library.repo_blob_base }}/library/src/main/java/com/h6ah4i/android/widget/advrecyclerview/headerfooter/AbstractHeaderFooterWrapperAdapter.java) can be a good alternative to the `ComposedAdapter`. This class provides simple way to creating a wrapper crass for headers & footers by implementing small number of methods.
+When creating headers & footers, the [`AbstractHeaderFooterWrapperAdapter`]({{ library.repo_blob_base }}/library/src/main/java/com/h6ah4i/android/widget/advrecyclerview/headerfooter/AbstractHeaderFooterWrapperAdapter.java) can be a good alternative to the `ComposedAdapter`. This class provides simple way to creating a wrapper class for headers & footers by implementing small number of methods.
 
 
 !!! tip "Just looking for a sample code?"
